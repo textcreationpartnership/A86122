@@ -1,0 +1,661 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of the article of our creed: Christ descended to Hades, or ad Inferos. Posit. 1. Christs soule went to Hades, or ad Inferos. 2. It concerns a Christian to know the right meaning of this article. Quest. 1. What is meant in the creed by this article? 2. Did Christs soule goe to heaven or Gehenna? With answers to both of them severally.</title>
+            <author>Hayne, Thomas, 1582-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86122</idno>
+            <idno type="STC">Wing H1220</idno>
+            <idno type="STC">Thomason E128_3</idno>
+            <idno type="STC">ESTC R22249</idno>
+            <idno type="EEBO-CITATION">99871675</idno>
+            <idno type="PROQUEST">99871675</idno>
+            <idno type="VID">156232</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156232)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of the article of our creed: Christ descended to Hades, or ad Inferos. Posit. 1. Christs soule went to Hades, or ad Inferos. 2. It concerns a Christian to know the right meaning of this article. Quest. 1. What is meant in the creed by this article? 2. Did Christs soule goe to heaven or Gehenna? With answers to both of them severally.</title>
+                  <author>Hayne, Thomas, 1582-1645.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymously published by Thomas Hayne.</note>
+                  <note>Annotation on Thomason copy: "By Tho: Haine".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Descent into hell.</term>
+               <term>Apostles' Creed --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156232:1" rendition="simple:additions"/>
+            <p>OF THE ARTICLE OF OVR CREED: Chriſt deſcended to <hi>Hades,</hi> or <hi>ad Inferos.</hi>
+            </p>
+            <p>Poſit. 1. Chriſts ſoule went to <hi>Hades,</hi> or <hi>ad Inferos.</hi>
+            </p>
+            <p>2. It concerns a Chriſtian to know the right meaning of this Article.</p>
+            <p>Queſt. 1. <hi>What is meant in the</hi> Creed <hi>by this</hi> Article?</p>
+            <p>2. <hi>Did Chriſts Soule goe to</hi> Heaven <hi>or</hi> Gehenna?</p>
+            <p>With Anſwers to both of them <hi>ſeverally.</hi>
+            </p>
+            <p>LONDON, Printed in the yeare 1642.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:156232:2"/>
+            <head>To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">G</seg>OD hath in theſe later dayes opened a plentifull foun<g ref="char:EOLhyphen"/>tain of ſacred truth to informe our judgements and direct our practiſe: yet ſuch is humane frailty, that ignorance and curioſity have broached many Con<g ref="char:EOLhyphen"/>troverſies, and prejudice and partiality maintained moſt of them with much vehemency of conten<g ref="char:EOLhyphen"/>tion, and diſaffection of hearts. Whereby the propagation of the Goſpel, and the advancement of Gods glory is much retarded. Theſe things it becomes us not onely tolament, but to endeavour by all poſ<g ref="char:EOLhyphen"/>ſible meanes to remedy. Now what better and ſpeedier courſe can be taken for cure herein, then for the Sons of the God of Peace, Sub<g ref="char:EOLhyphen"/>jects of the Prince of Peace, men renewed by the Spirit of Peace, to take to themſelves a calm and peaceable temper, to treat of ſacred matters without malice and bitterneſſe; in points of much contro<g ref="char:EOLhyphen"/>verſie and difficulty to uſe a punctuall plain and breif diſcourſe;. That Truth bee neither loſt, nor undiſcerned <hi>nimium altercando</hi> by vaſtneſſe of debate, nor clouded by extravagant, far fetcht, and nice expreſsions. I have in this preſent Treatiſe endeavonred to bring arguments and grounds moſt perſpicuous, breif, and perti<g ref="char:EOLhyphen"/>nent; that the point here handled might not bee <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and a rock of offence amongst us. Some paſſages herein require not an or<g ref="char:EOLhyphen"/>dinary skill in tongues. So that men not verſed that way are to bee in<g ref="char:EOLhyphen"/>treated not to precipitate their judgments; but many paſſages are ſo cleared by Scripture and good deductions thence, that my appeale may be to any indifferent judge. Such as this diſcourſe is, I preſent it unto your gentle peruſhall and ſerious conſideration, and humbly deſire Gods gracious bleſsing on both our paines, and the Divine aſ<g ref="char:EOLhyphen"/>ſiſtance of his Holy Spirit leading us into all Trueth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:156232:2"/>
+            <head>Two Poſitions about the ARTICLE <hi>Deſcendit ad Inferos, to Sheol,</hi> or <hi>to HADES.</hi>
+            </head>
+            <div n="1" type="position">
+               <head>POSITION I. <hi>Chriſt</hi> did <hi>Deſcendere ad Inferos, to Sheol, or Hades.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Old and New Teſtament, the two excellent witneſſes of ſacred Truth, affirme with one accord, <hi>That Christs ſoule was in Sheol,</hi> or <hi>Hades,</hi> and (as in la<g ref="char:EOLhyphen"/>tine theſe termes be generally by all tran<g ref="char:EOLhyphen"/>ſlate) <hi>apud inferos.</hi> For <hi>Pſalme</hi> 16.10. Tis ſaid, <hi>Thou wilt not leave my ſoule in Sheol, or Hades, nor ſuffer thy holy one to ſee corruption.</hi> And Act. 2. Theſe very words are expreſly cited from the <hi>Pſalm;</hi> And there S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt <hi>Peter</hi> expounds the latter part of the words thus: <hi>Nor ſuffer thine holy one to ſee corruption,</hi> that is, Chriſts Body or Fleſh to to turne to duſt in the grave. The meaning therefore is, that Chriſts So <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e going to <hi>Sheol</hi> or <hi>Hades, or ad Inferos</hi> ſhould not there bee left to abide or continue longer then the third day. For Chriſt promiſed to riſe againe, and ſet the time of his Reſurrection to bee not before the third
+<pb n="2" facs="tcp:156232:3" rendition="simple:additions"/>day. This it pleaſed him to doe, that he might fulfill what was typed in <hi>Ionas:</hi> As alſo that wee might aſſuredly know, that he was truly dead, From Chriſts interring untill the third day, <hi>Chriſts fleſh</hi> or body <hi>did reſt in hope:</hi> which could not in any wife bee fruſtrate. And therefore on the third day Chriſt was quickned by the Spirit, 1 <hi>Peter</hi> 3.8. So that his Sou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, which h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d beene in <hi>Sheol,</hi> or <hi>Hades,</hi> or <hi>apnd Inferos,</hi> and his body which was in the grave united; and that himſelfe role dead. For theſe paſſages concerning Chriſt, <hi>David</hi> as a Prophet ſaw before, and ſpake concerning Chriſts riſing from death. Which death to Chriſt, as to all men, was the parting of the ſoule and bodie to bee ſent each to their due place. Thus it is manifeſt by facred Scripture that Chriſts ſoule did <hi>deſcendere ad Inferos,</hi> or goe to <hi>Sheol</hi> or <hi>Hades.</hi> For what was not left there, muſt goeth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther, be there, and come thence. Seeing Scripture is ſo expreſſe in this point, I ſhall not need to uſe any further proofe thereof.</p>
+            </div>
+            <div n="2" type="position">
+               <head>POSIT. 2. <hi>It doth much co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cerne us Chriſtians to under<g ref="char:EOLhyphen"/>ſtand aright, what is meant by Chriſts Soule going</hi> ad In<g ref="char:EOLhyphen"/>feros, to <hi>Sheol,</hi> or <hi>Hades.</hi>
+               </head>
+               <p>IT behooves us truely to underſtand, what is meant by the deſcent of Chriſt: becauſe,</p>
+               <p n="1">1. It is a ru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h affirmed by the <hi>Holy Ghoſt</hi> in both Teſtaments, and an expreſſion of a chiefe action of CHRIST about his death and Reſur<g ref="char:EOLhyphen"/>rection.</p>
+               <p n="2">2. Becauſe Saint <hi>Peter</hi> doth cite from the Old Teſtament, words witneſſing the ſame, and expounds them as u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eful to be knowne for the confirmation of a Chriſtians faith in the point of Chri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efurrection, which is a matter of great conſequence for our ſalvation.</p>
+               <p n="3">3. Becauſe this clauſe, 1. Is taken into the common Creed of the Churches in this part of the world. 2. Expounded as part of the Creed by many of the ancient Fathers, and mentioned in diverſe parts of their workes, and generally acknowledged and received by late Writers upon the Creed.</p>
+               <p n="4">4. Becauſe the different expoſitions thereof have in theſe latter times occaſioned much controverſie and jarres among Chriſtians, and beane a great ſtumbling blocke to Iewes: who are of themſelves too averſe from
+<pb n="3" facs="tcp:156232:3"/>Chriſtianity, and made by miſpriſion and quarrells about this Article much more to disaffect our Doctrine.</p>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> What inconvenience and miſchiefe theſe have brought to the Church of Chriſt in theſe our days is moſt apparent. In regard of theſe and o<g ref="char:EOLhyphen"/>ther reaſons, which might bee produced, it very much concernes us Chriſtians to underſtand aright, and to profeſſe, what according to ſa<g ref="char:EOLhyphen"/>cred truth is meant by Chriſt, Soule going <hi>ad Jnferos.</hi> That I may clearely ſet downe what I conceive both from Scripture, and the lear<g ref="char:EOLhyphen"/>ned and worthy paines of the moſt judicious Divines and exquiſite ſearchers into the fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red Text, is meant thereby, I propound the two fol<g ref="char:EOLhyphen"/>lowing queſtions and anſwer thereun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o.</p>
+            </div>
+            <div n="1" type="question">
+               <head>QUEST. 1. <hi>What is the full meaning and true ſenſe of the word in our</hi> CREED. <hi>Hee deſ ended</hi> ad Inferos, <hi>to</hi> Sheol, <hi>or</hi> Hades<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </head>
+               <p>FOr the making a diſtinct &amp; punctuall anſwer to this queſtion, I will firſt produce the various ſignifica <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of the words, <hi>Sheol, Hades, Inferi.</hi> For unleſſe ambiguous words bee well and rightly diſtingui<g ref="char:EOLhyphen"/>ſhed, neither can I fully and perſpicuouſly expreſſe my meaning, nor others without miſpriſion conceive, what they endeavour to un<g ref="char:EOLhyphen"/>derſtand. If words give not a certaine ſound, wee ſhall but beate the ayre, and leave the matter doubtfull, and give occaſion to further diſpute.</p>
+               <p>Firſt, Then <hi>Sheol, Hades, Inferi</hi> ſignifie <hi>Death,</hi> when they are ſpo<g ref="char:EOLhyphen"/>ken of a perſon in danger of his life, As <hi>Pſalme</hi> 18.6. The ſorrowes of <hi>Sheol</hi> compaſſed mee, that is, the ſorrowes of <hi>Death</hi> or ſorrowes bringing to the Grave: and <hi>Pſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me</hi> 116.3. The paines of <hi>Sheol</hi> found mee: that is, griefe and paine haſtning death. They doe alſo ſignifie <hi>'Death,</hi> when <hi>Soule</hi> is put for life. As <hi>Pſalme</hi> 30.3. <hi>Lord thou laſt brought up my ſoule from Sheol:</hi> that is, my <hi>life</hi> from <hi>Death.</hi> And <hi>Pſalme</hi> 49.25. <hi>God will redeeme my ſoule from the hand of Sheol:</hi> that is my <hi>life</hi> from <hi>death.</hi> That life is ſignified by ſoule is evident by our Tranſlation very often. As <hi>Matth<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w</hi> 2.20. <hi>Herod</hi> was dead, who tought the young Childs <hi>life:</hi> where the Original hath <hi>Soule.</hi> And that <hi>Sheol</hi> is put for <hi>death</hi> appeareth, <hi>Pſalme</hi> 88 3. My ſoule is full of troubles, and my life draweth nigh unto <hi>Sheol,</hi> that is, <hi>Death.</hi>
+               </p>
+               <pb n="6" facs="tcp:156232:4"/>
+               <p> Secondly, When <hi>Sheol, Hades, Inferi</hi> are ſpoken of the <hi>body,</hi> they ſignifie <hi>Grave,</hi> as <hi>Gen.</hi> 42.38. Yee will bring my gray head with ſorrow to <hi>Sheol:</hi> that is, my <hi>body</hi> to the <hi>grave.</hi> So I <hi>Kings</hi> 2.9. <hi>David</hi> bids <hi>Salomon</hi> bring <hi>Shemei</hi> his hoary head with bloud to <hi>Sheol,</hi> to the Grave.</p>
+               <p>Thirdly, When they are ſpoken of the <hi>Soule ſeparate</hi> from the body, they ſignifie the common ſtate of all ſoules departed this life: So that their owne proper force extends no further, but to expreſſe the world un<g ref="char:EOLhyphen"/>ſeene, without any diſtinction of the bleſſed place, for the faithfull, or place of torment for unbeleevers. In this ſence theſe words are found, <hi>Pſalme</hi> 89.48. <hi>What man liveth that ſhall not ſee death?</hi> This ſpeech expreſſes, what becomes of every mans body. It followes, <hi>Shall hee de<g ref="char:EOLhyphen"/>liver his ſoule from the hand of Sheol,</hi> or the world unſeene? Here tis expreſſled, that the ſoule of every man dying goes to an other world: which is called <hi>Sheol,</hi> becauſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> it requires all men to come thither; and cal'd <hi>Hades,</hi> becauſe it is a place <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, unſeene unto us a live. See<g ref="char:EOLhyphen"/>ing every man hath an immortall ſoule, the neceſſity of human condition requireth that when the ſoule ceaſeth to give life to the body, it go to the other world. And this is the common condition of all ſoules, both of the godly and ungodly; all of them are ſaid indifferently to go to <hi>Sheol,</hi> or <hi>Hades,</hi> to the world unſeene.</p>
+               <p>Now the nature of theſe words admits the like acception and ſence, which other generall words have, when they comprehend places of bet<g ref="char:EOLhyphen"/>ter and worſe condition. As namely, when it is ſaid, The <hi>Embaſſadours</hi> were brought from <hi>Dover</hi> to <hi>London,</hi> and the Pirates were brought from <hi>DOVER</hi> to <hi>LONDON, London</hi> is the place common to both: the condition of the perſons diſtinguiſhes of their lodging of the honourable entertainement of the former, of the impriſonment of the later. So though <hi>Sheol, Hades, Inferi</hi> denote the common lodge of all ſoules ſeparate from their bodies, yet the quality of the perſons may and doth intimate and diſtinguiſh the eſtate of their joy or torment. When therefore it is ſaid of a good and faichfull ſoule, it is gone to <hi>Sheol,</hi> or <hi>Hades,</hi> the meaning is according to the bare force of the word, that it is gone to the <hi>world unſeene,</hi> but by conſequence it is implyed, that it is gone to <hi>Heaven:</hi> becauſe <hi>Heaven</hi> is that part of the world unſeene, which of Gods mercy in Chriſt is prepared for beleevers. And when it is ſaid of an unbeleevers ſoule, that it is gone to <hi>Hades,</hi> or <hi>Sheol,</hi> the bare force of the words <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nferres no more, but that it is gone to the <hi>world un<g ref="char:EOLhyphen"/>ſeene:</hi> but by conſequent it is implyed, that it is gone to <hi>Geheuna.</hi> That both the ancient Fathers and beſt approved forraigne writers uſe theſe words, as here I have explained them, the moſt learned Arch-Biſhop
+<pb n="7" facs="tcp:156232:4"/>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> hath out of the plentifull treaſures of his obſervations excellent<g ref="char:EOLhyphen"/>ly and clearely demonſtrated in his anſwer to the <hi>Ieſuite.</hi>
+               </p>
+               <p>Fourthly, When the perſon is put for the ſoule ſeparated by death, ſo that the perſon is ſaid to goe to <hi>Sheol, Hades, Inferos:</hi> thoſe tearmes in their owne force ſignifie no more, but <hi>the generall place of all ſoules good and badde,</hi> without diſtinction of their ſeverall and different Lot.</p>
+               <p n="1">1. That the perſon is ſometimes put for the ſoule, I prove by theſe Scriptures, 2 <hi>Cor.</hi> 5.1. <hi>When our earthly houſe of this Tabernacle ſhall be deſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yed, wee have a building of God, an houſe not made with hands eternall in the heavens.</hi> Here by [Wee] is to bee underſtood [Our Soules] So Saint <hi>Auguſtine</hi> uſing the like kinde of expreſſion ſaith. <hi>The bleſſed poore are received into Abrahams boſome,</hi> (as was <hi>Laza<g ref="char:EOLhyphen"/>ru) after this life.</hi> That is their ſoules are received into the ſame. <hi>Quaest. in Evang. lib.</hi> 2. And of the perſon of the wicked it is ſaid, <hi>2 Peter</hi> 2.4. and 9. <hi>The Lord reſerves the unjuſt,</hi> that is, the ſoules of the unjuſt, <hi>unto the day of judgement,</hi> (as he doth the Angels, which fell) <hi>in chaines of darkeneſſe.</hi> And <hi>Apoc.</hi> 14.11. It is ſaid. <hi>The wic<g ref="char:EOLhyphen"/>ked are tormented evermore before the Lambe:</hi> Namely their ſoules firſt, and after the Reſurrection, their ſoules and bodies both together endure that torment. Thus it is evident, that the <hi>perſon</hi> is ſometimes put for the <hi>ſoule ſeperate</hi> from the body.</p>
+               <p>Secondly, That the word <hi>Hades,</hi> and ſo <hi>Sheol,</hi> and <hi>Inferi,</hi> of like nature with <hi>Hades</hi> ſignifie in this kinde of uſe, the place of ſoules both good and bad, juſt and unjuſt, I thus ſhew, <hi>Revel.</hi> 20.13. In ſpeech of preparation for the great and generall judgement of the world, it is ſaid, <hi>that death and Hades gave up the dead, which were in them.</hi> Here the perſons the <hi>dead</hi> are ſaid to be given up out of <hi>death</hi> and <hi>Hades,</hi> namely the <hi>dead</hi> that is, the <hi>bodies of the dead</hi> are reſtored from <hi>death:</hi> and cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>dead,</hi> that is the <hi>ſoule of the dead</hi> doe come from <hi>Hades,</hi> the world un<g ref="char:EOLhyphen"/>ſeene. <hi>Theophylact</hi> on 1 <hi>Cor.</hi> 15. Thus underſtood <hi>death</hi> and <hi>Hades,</hi> where he ſaith. <hi>Jufernus</hi> or the world unſeene, <hi>hath poſſeſſion of the ſoules ſeparated, death of the bodies.</hi>
+               </p>
+               <p>The ſpeech of our Lords body and ſoule in the Creed may hence in great part bee cleared, and made manifeſt. For when we ſay <hi>Chriſt was buried,</hi> that is affirmed of the <hi>perſon</hi> which is properly ſpoken of one part of him, namely <hi>his body.</hi> And when it is ſaid, <hi>Chriſt</hi> went to <hi>Hade<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> that is affirmed of the <hi>perſon,</hi> which is properly ſpoke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the <hi>Soule.</hi>
+               </p>
+               <p>And thus commonly the condition of body and ſoule parted is ex<g ref="char:EOLhyphen"/>preſſed,
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:156232:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:156232:5"/>
+                  <pb n="6" facs="tcp:156232:6"/>and to bee underſtood, when the ſpeech mentions the ſtate of both. So that <hi>Hades</hi> and <hi>Inferi</hi> expreſſe the generall place, which re<g ref="char:EOLhyphen"/>ceives all ſoules ſeparated. And in this regard <hi>Hilary</hi> on <hi>Pſalme</hi> 138. ſaith; That Chriſts ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was in <hi>Hades</hi> or <hi>apud Inferos, quia conſumma<g ref="char:EOLhyphen"/>tionem veri hominis non recuſavit,</hi> to ſhew that hee was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uly man: and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e he addes this reaſon: It is the Law of humane neceſſity, that when the body of any man is dead, the ſoule ſhould go to <hi>Hades,</hi> or <hi>ad Inferos,</hi> to the world unſeene. And hence it is that <hi>Hades</hi> is frequently mentio<g ref="char:EOLhyphen"/>ned, as the common lodge of all men. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>All mortall men goe to Hades.</hi> And againe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Epig. Graec. B.</hi> 3.6. <hi>Hades is the common Haven receiving all men,</hi> that is, all mens ſoules. Hence it is, that there it is ſaid of many per<g ref="char:EOLhyphen"/>ſons burnt in one houſe: <hi>That their aſhes could not be diſtinguiſh to be put in ſeveral</hi> urnes <hi>by men: yet Hades could eaſily diſtinguiſh them in their aſhes:</hi> The meaning is, that notwithſtanding their aſhes were confounded, yet their ſoules went to and were diſtinct in <hi>Hades,</hi> or the other world. Thus then the <hi>perſons</hi> are ſometimes put for the <hi>ſoules:</hi> and <hi>Hades, Sheol, Inferi,</hi> expreſſe the generall place receiving all ſoules ſeparate from their bodies.</p>
+               <div type="answer">
+                  <head>My Anſwer then to the Queſtion is.</head>
+                  <p>SEeing 1. Some things are ſpoken properly of the perſon of Jeſus Chriſt in the Creed, <hi>viz.</hi> That he ſuffered under Pontius Pilate and was crucified. 2. Some things ſpoken of his perſon, but to be under<g ref="char:EOLhyphen"/>ſtood of his bodie, <hi>viz.</hi> That he was dead and buried. 3. This ſpoken of his perſon, which is to be underſtood of his ſoule, <hi>viz.</hi> That he went to <hi>Hades,</hi> or <hi>ad Inferos.</hi> 4. Seeing <hi>Hades, Sheol, Inferi</hi> in their own proper force are put for the place receiving all ſoules in generall; and 5. ſeeing generall words by particular circumſtances of the perſons, whom they concern, may ſerve to expreſſe ſomething in ſpeciall more then their own force will extend to in propriety: I Anſwer: That the Article He deſcended <hi>ad Inferos</hi> in the proper force and meaning thereof expreſſes,</p>
+                  <p n="1">1. That Chriſt had an humane immortall ſoule.</p>
+                  <p n="2">2. That this ſoule, when the body was left dead, went to the world unſeen, as the ſoules of all men doe. And thus much I hold to bee ſuffi<g ref="char:EOLhyphen"/>cient for Anſwer to the Queſtion propounded.</p>
+                  <p n="3">3. I adde, that ſome circumſtances concerning Chriſts perſon may extend the force of the words in this Article to expreſſe in particular the diſtinct and ſpeciall place, whither Chriſts ſoule went.</p>
+                  <pb n="7" facs="tcp:156232:6"/>
+                  <p> Now that all circumſtances concerning Chriſts perſon, which conduce to the clearing of the point of Chriſts ſoule going at his death either to <hi>Heaven</hi> or <hi>Hel</hi> in ſpecial<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, may be well weighed and conſidered, I pro<g ref="char:EOLhyphen"/>pound a ſecond Queſtion.</p>
+               </div>
+            </div>
+            <div n="2" type="question">
+               <head>QVEST. 2.</head>
+               <p>
+                  <hi>What is the particular place to which Chriſts ſoule went at his death on the Croſſe, and from whence it came to his body at his Reſur<g ref="char:EOLhyphen"/>rection?</hi>
+               </p>
+               <div n="1" type="ground">
+                  <head>The 1. Ground for Anſwer to the Queſtion.</head>
+                  <p>THat this Queſtion may bee fully and clearely reſolved I will conſi<g ref="char:EOLhyphen"/>der ſom text of Scripture, upon which a reſolution of the doubts in<g ref="char:EOLhyphen"/>cident thereunto may be grounded. And here firſt let us take notice of that ſpeech of Chriſt to the believing malefactour on the Croſſe. <hi>Luk.</hi> 23.43. <hi>This day ſhale thou bee with me in Paradiſe.</hi> Here what manner of place <hi>Paradiſe</hi> is, <hi>Paul</hi> plainly expreſſed, 2. <hi>Cor.</hi> 12, 2.4. where hee cals it <hi>the third Heaven.</hi> So that from theſe two texts it appears, that both Chriſts, and the repentant theifes ſoules were that day in the third <hi>Heaven.</hi> If it bee here objected, That the meaning may bee. Thou ſhalt this day bee with my God-head in <hi>Paradiſe.</hi>
+                  </p>
+                  <p>I Anſwer, that the very context requires, that the words bee un<g ref="char:EOLhyphen"/>derſtood of Chriſts humane ſoule. For the believing malefactour conſi<g ref="char:EOLhyphen"/>dering himſelfe <hi>in the ſame condemnation with Christ,</hi> and his body to undergoe the ſame death, which Chriſt ſhould ſuffer; confeſſed further, that <hi>hee himſelfe was juſtly puniſhed for his offences:</hi> but that <hi>Christ was a man, who had done nothing amiſſe:</hi> and thereupon beſee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heth Chriſt to re<g ref="char:EOLhyphen"/>member him, when hee came into his kingdome. By this it appears that the malefactour ſpake of Chriſt, as man, and going to his kingdome in the other world; though in this world hee was ignominiouſly intrea<g ref="char:EOLhyphen"/>ted &amp; cruclly put to death. And Chriſt in his Anſwer ſaith to this effect. I whom thou acknowledgeſt to bee the Lord, &amp; to die an innocent man, go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hence to my kingdome: and as thy body is here condemned to the ſame diſgracefull death with mine, &amp; ſhall be crucified: ſo ſhall wee both this day bee in bliſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e together, in <hi>Paradiſe</hi> or <hi>Heaven</hi> together. I goe to my father and of my mercy will receive thee into my kingdome. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> what is ſpoken of both their perſons is to bee underſtood of their ſoules.
+<pb n="8" facs="tcp:156232:7"/>We ſhall be in Paradiſe together, is in ffect, our ſoules ſhall bee in Paradiſe together. So in ſpee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke kind, when Chriſt ſaith: <hi>Could you not watch with mee an bour?</hi> the ſence is, Could ye not watch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I doe? And ſo, yee who continued with mee in my tentation, is yee who endured tentation<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, as I endured them: or who were aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cted with mee in my tentations.</p>
+                  <p>And not onely the ſpeech of Chriſts comming into his kingdom, but theſe texts alſo conclude, that Chriſts words of his being in Paradiſe were ſpoken of his humane ſoule. <hi>I goe to him, who ſent mee. Ye ſhall ſeek mee and ſhall no find mee. Ioh.</hi> 7 34. <hi>I goe to prepare a place for you: I will come again and receive you to my ſelf. John.</hi> 14.3. And, <hi>I go away; and will come to you again If, you loved mee, yee would re<g ref="char:EOLhyphen"/>joyce, becauſe I goe to my father. Ioh.</hi> 15.28. Theſe ſpeeches <hi>(of going &amp; coming)</hi> ſo often uſed can not be underſtood of Chriſts Deity, which is preſent every where: But neceſſarily muſt bee underſtood of Chriſts humane ſoule, which went to his father and came to his body again, and raiſed it to li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e: S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that after his reſurrection hee came to them again. Thus it appears, that Chriſts ſpeech <hi>with mee in Paradiſe</hi> implies with my humane ſoule in <hi>Heaven.</hi>
+                  </p>
+               </div>
+               <div n="2" type="ground">
+                  <head>A ſecond Ground from Scripture.</head>
+                  <p>SEcondly let us obſerve, that Chriſt having 12. Diſciples, who were witneſſes of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll things, which hee did, or ſpake or ſuffered untill his death; after his death upon Ju<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as his fall and periſhing, <hi>Saint Peter Act.</hi> 1.22. ſaith, that <hi>another neceſſarily muſt be choſen</hi> and put in Judas his place, for to bee a witneſſe which the other 13. Apoſtles <hi>concerning Chriſts reſurrection.</hi> From this ſpeech of <hi>Saint Peter</hi> I this argue. If the choiſe of a new Apoſtle was neceſſary that hee might bee a witneſſe with the other 11. then is was likewiſe neceſſary, that there ſhould bee ſome witneſſes of the condition and place in which Chriſts humane ſoule was after it was ſeparated from his body and untill he roſe again. Of this no living man could teſtify. Therefore it pleaſed God, that at Chriſts re<g ref="char:EOLhyphen"/>ſurrection many of the dead bodies of the Saints ſhould riſe again. <hi>Mat.</hi> 27.52. Whoſe ſoules comming to their bodies again by vertue of conformity to Chriſts ſoule comming to his body &amp; raiſing it up to life, were witneſſes to Chriſt concerning the place &amp; ſtate, in which his ſoule was from the time of his death, untill their riſing again with him. For other witneſſes wee finde none.</p>
+                  <p>Their raiſing from death was an extra ordinary work of Gods power:
+<pb n="9" facs="tcp:156232:7"/>now God never worketh in a cou<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe extraordinary, but upon an extra<g ref="char:EOLhyphen"/>ordinary occaſion &amp; I know no other extraordinary occaſion, which can bee alledged for their raiſing from death with Chriſt: but their wit<g ref="char:EOLhyphen"/>neſſing, whether his humane ſoule went at his death, and whence it came at his reſurrection to his body again. Their very company doth moſt fitlie give teſtimony thereunto. For they were Holy perſons, therefore their ſoules came from the place, in which before Chriſts death the ſoules of the Saints departed reſted from their labours. That place is <hi>Abrahams</hi> boſome to <hi>Lazarus, Luc.</hi> 16.22. A better and heavenly country, which the Patriarches, who died in the true faith, ſought; even a Citie prepared by God. <hi>Heb.</hi> 11.6. That place is called Paradiſe to the beleiving theif: and Paradiſe by Saint <hi>Paul</hi> 2. <hi>Cor.</hi> 12.2.4. is the third heaven. It is alſo the houſe of God, in which are many manſions, and whither Chriſt went <hi>to prepare</hi> or make aſſured <hi>a place for the Diſciples, and to come again to them, Iohn.</hi> 14.2. and thence he came at his reſurrection with the at<g ref="char:EOLhyphen"/>tendance of thoſe Saints riſing with him.</p>
+                  <p>
+                     <hi>Obj.</hi> If it bee here objected, That we read not any words recorded, which theſe Saints ſpake concerning Chriſt, or any teſtimony given con<g ref="char:EOLhyphen"/>cerning the place, whence he came, or otherwiſe.</p>
+                  <p>
+                     <hi>Anſ.</hi> I Anſwer, Tis moſt true; yet ſeeing they appeared to many in the <hi>Holy</hi> City, as Chriſt alſo did, wee may conceive that they converſed with and ſpake to the Saints then living: as Chriſt himſelfe did after his riſing again. In this as in many other things <hi>the ſervants might be as their maſter,</hi> and conformable to him. So that wee may further con<g ref="char:EOLhyphen"/>ceive, that whatſoever they ſpake was doubtleſſe holy and heavenly: yet it pleaſed not the ſpirit of God to have it recorded: becauſe we have a ſufficiency of ſacred doctrine in <hi>Moſes, the Prophets, the Evangeliſts, and Apoſtles writings,</hi> and ought to heare them. For ſo the courſe here ſhall be conſonant to that in the ſpeech made to the richman, <hi>Luc.</hi> 16.29. concerning his brethrens inſtruction. They have <hi>Moſes</hi> and the Pro<g ref="char:EOLhyphen"/>phets <hi>&amp;c.</hi> If they will not beleive them, neither will they beleive though one riſe from the dead. Further ſuppoſe they ſpake nothing, but in ge<g ref="char:EOLhyphen"/>nerall, as <hi>Paul</hi> did <hi>who was rapt up into the third keaven:</hi> VIZ. That they came from Paradiſe or the third <hi>Heaven,</hi> and that the words there heard, the glory there appearing, the bliſſe there enjoyed was exceeding great and unutterable. This was not neceſſary to be recorded. Becauſe 1. other Scriptures mention and declare for our comfort Gods abundant mercy &amp; goodneſſe towards us, in giving us in this life grace <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which <hi>can not be unfolded,</hi> and joy <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>unſpeakable;</hi> and reſerveth for us in heaven a treaſure <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>that ſhall nevenfaile:</hi> which Saint <hi>Paul</hi> ex<g ref="char:EOLhyphen"/>pounding
+<pb n="10" facs="tcp:156232:8"/>calleth Such an eternall weight and exceeding riches of Glo<g ref="char:EOLhyphen"/>ry, that it is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> not to bee reached to by an <hi>Hy<g ref="char:EOLhyphen"/>perbole,</hi> &amp; by other the like ſpeeche<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. From all which wee may by the or<g ref="char:EOLhyphen"/>dinary miniſtry of men bee taught out of the word written, to conceive ſo much of Heavens bliſſe &amp; the like, as God thinks fit here to acquaint <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with all, and what wee are here capable of: If the world make us not backward to liſten thereunto and dull rightly to conceive thereof, as the <hi>Rich mans</hi> ſpeech to <hi>Abraham</hi> intimats that his brethren were.</p>
+                  <p>Again the very appearance of the Saints, who roſe again was a ſuffi<g ref="char:EOLhyphen"/>cient witneſſe, that Chriſt came to that Paradiſe or Heaven, where their ſoules had bin, and brought them thence, that they might riſe from death together with him. <hi>This very work of Chriſt did witneſſe of him:</hi> as els where in an other caſe hee ſaid, <hi>John.</hi> 10.25. &amp; 29. Nor is it unuſuall to draw concluſions from Chriſts works, as well as from his words. <hi>Omnis ejus actio eſt noſtrainſtructio.</hi> And in this preſent occaſion wee may doe well to believe, both for his work, and for his companies ſake.</p>
+                  <p>
+                     <hi>Obj.</hi> If it be further objected, what need is there of witneſſe in this kind? was not the witneſſe of the 12. Diſciples ſufficient for all things, which wee need to know?</p>
+                  <p>
+                     <hi>Anſ.</hi> I Anſwer. 1. Of all other paſſages from Chriſts Baptiſm God provided them to be witneſſes: and ſeeing it was his will, that theſe Saints ſhould riſe again, and in likely hood be witneſſes, as I have ſhe<g ref="char:EOLhyphen"/>wed, in that point, to which no living man could give teſtimony, great reaſon it is, that wee ſhould reſt content, and accept of their witneſſe, &amp; not diſpute againſt it. 2. It appears that witneſſe in this point was ne<g ref="char:EOLhyphen"/>ceſſary. For ſeeing it is neceſſary to underſtand a right what is meant by Chriſts ſoule going to <hi>Hades</hi> or <hi>ad Inferos</hi> (as is ſhewed in the ſecond Pro<g ref="char:EOLhyphen"/>ſition,) and ſeeing the ſacred Scripture aſſures us that Chriſts ſoule was in <hi>Hades</hi> or <hi>apud Inferos:</hi> and much diſpute there is and hath bin in the world about the condition of the place, whether it bee <hi>Heaven</hi> or <hi>Hel:</hi> Surely if the Teſtimony of theſe Saints was not neceſſary, yet it cannot be denyed to be very expedient and uſefull. 3. Where as in the Epiſtle to the Trallians among <hi>Ignat. Epiſt.</hi> it is aſſerted that Chriſt did <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>really and indeed, and not in appearance: and things in Heaven, on earth, and under the earth are brought in as witneſſes thereof: the things in Heaven are ſaid to bee the incorporeall natures</hi> (which muſt bee the An<g ref="char:EOLhyphen"/>gels, and the ſoules of theſe Saints now ſpoken of:) <hi>things on earth were the Jewes and Romans, and all preſent at Chriſts death: things under the earth are the bodies of the dead Saints, who roſe with him at his reſurre<g ref="char:EOLhyphen"/>ction.</hi> Thus was their teſtimony neceſſary for the truth of Chriſts death
+<pb n="11" facs="tcp:156232:8"/>and riſing again. So that the ſoules and bodies of theſe dead Saints com<g ref="char:EOLhyphen"/>ing to life again did ſhew and teſtify. 1. that as their death was un lenia<g ref="char:EOLhyphen"/>ble and never queſtioned. So was his death true, &amp; ought not to be que<g ref="char:EOLhyphen"/>ſtioned. 2. As their reſurrection from death was moſt certain, ſo was his. And I will further 3. adde (which I conceive I well may) as their ſoules continuance in Paradiſe or Heaven from he time of their death untill their reſurrection was undeniable, ſo was Chriſts. They were alike in the former, therefore in this point alſo.</p>
+               </div>
+               <div n="3" type="ground">
+                  <head>The third Ground.</head>
+                  <p>IN the third place from the conſideration of Chriſt, as the Head of the Church, and all true believers his members, let us ſee what is that Conformity between him and them, which in many paſſages of Scripture is mentioned. Concerning the point in hand, theſe conformities follo<g ref="char:EOLhyphen"/>wing are moſt conſiderable.</p>
+                  <p>
+                     <list>
+                        <head>In the very ſame man<g ref="char:EOLhyphen"/>ner as it was with Chriſt.</head>
+                        <item>The Saints ſuffered many calamities in their life time.</item>
+                        <item>They denyed themſelves, and took up their croſſes.</item>
+                        <item>They died, their bodies were buried.</item>
+                        <item>Their ſoules were commended into the hands of God.</item>
+                        <item>They enjoyed the Heavenly country, which they ſought, &amp; the City prepared by God.</item>
+                     </list>
+                  </p>
+                  <p>
+                     <list>
+                        <head>As Chriſt their Lord did.</head>
+                        <item>The ſoules of ſome of them came from that Heavenly coun<g ref="char:EOLhyphen"/>try, and were united to their bodies again.</item>
+                        <item>They appeared in ſoule and body alive in Jeruſalem.</item>
+                     </list>
+                  </p>
+                  <p>Seeing the Conformity holds in other points we may well conceive and affirm, that it holdes alſo in this, that Chriſts ſoule went to, and continued in Ab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ahams boſom, or the Heavenly country untill his re<g ref="char:EOLhyphen"/>ſurrection. Beſids in <hi>Act.</hi> 2. where is mention made of one prophe<g ref="char:EOLhyphen"/>cied of, whoſe ſoule was not left in Hides or the world unſeen, nor his body left to ſuffer corruption: it is prooved that theſe words in the Pſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lm belong to Chriſt and not to <hi>'David</hi> by this onely non<g ref="char:EOLhyphen"/>conformitie: <hi>viz.</hi> That Chriſts body ſaw not corruption, as <hi>Da<g ref="char:EOLhyphen"/>vids</hi> did. There is not any diſſimilitude mentioned concerning the ſtate of their ſoules. Whereas if the ſoule of <hi>David</hi> had gone to Heaven and Chriſt to <hi>Gehennah,</hi> there had bin a non-conformity of a vaſt diſtance to diſtinguiſh them, and an argument of good force to ſhew, that the words in the Pſalm nothing at all concerned <hi>David.</hi>
+                  </p>
+                  <p>Moreover unto Chriſt all true believers, ſince his death and
+<pb n="12" facs="tcp:156232:9"/>Reſurrection, muſt bee conformable. They endure many afflictions her in this life, they take up their croſſes patiently, they deny themſelves, they die, their bodies are buried, their ſoules goe to Paradiſe: thence at the generall reſurrection their ſoules returne, and ſhall bee reunited to their bodies: and being thus raiſed from death, they both in body and ſoule ſhall aſcend to <hi>Heaven.</hi> Thus it was which Chriſt, and his mem<g ref="char:EOLhyphen"/>bers, in all theſe reſpects they are and muſt be conformable unto him their head.</p>
+               </div>
+               <div n="4" type="ground">
+                  <head>
+                     <hi>The</hi> 4. <hi>Ground.</hi>
+                  </head>
+                  <p>FOurthly let us throughly waigh the admirable and manifeſt corre<g ref="char:EOLhyphen"/>ſpondence of theſe things following:</p>
+                  <p n="1">1. Chriſts ſoule went through the vail of his fleſh, <hi>Heb.</hi> 10.20. for his fleſh was as a vail, and kept the eyes of men from ſeeing his glory, becauſe he was clad which the ſimilitude of ſinfull fleſh.</p>
+                  <p>As the high Prieſt went through the vail of the Tabernacle, which ſeparated the Holy place from the Holieſt, and kept the eyes of men from looking thereunto.</p>
+                  <p n="2">2. Chriſt our high Prieſt having offered in this world his own bloud, entred into the Holy place, and thereby obtained eternall re<g ref="char:EOLhyphen"/>demption for his people. <hi>Heb.</hi> 9.12. &amp; 24.</p>
+                  <p>As the high Prieſt having offered the bloud of Sacrifices in the worldly Sanctuary entred alone into the Holieſt place once a yeare for pardon of his ſins and the peo<g ref="char:EOLhyphen"/>ples.</p>
+                  <p n="3">3. Chriſts ſoule going from his body hath made a new and living way for all believers ſoules to en<g ref="char:EOLhyphen"/>ter into the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Holieſt place, that is, <hi>Heaven,</hi> and not by that old way of beaſts ſlain. <hi>Heb.</hi> 10.20.</p>
+                  <p>The renting of the vail ſhewed that the old way unto the Holieſt place was taken away: &amp; the way opened for entring into a greater and more perfect Tabernacle not made with hands. <hi>He.</hi> 9.11 &amp; 24.</p>
+                  <p n="4">4. Chriſts ſoule came to his bo<g ref="char:EOLhyphen"/>dy, which ſlept in the grave: ſo that hee roſe again to life, and became the firſt fruits of them, who ſlept and afterward in ſoule and body aſcended into <hi>Heaven.</hi>
+                  </p>
+                  <p>So the ſoules of them, whoſe bo<g ref="char:EOLhyphen"/>dies yet ſleep in the duſt, ſhall at Chriſts comming again bee joyned to their bodies: ſo that then they ſhall riſe from death, and aſcend as Chriſt the firſt fruits did.</p>
+                  <pb n="13" facs="tcp:156232:9"/>
+                  <p> Now if <hi>the Holy place and wordly Sanctuary,</hi> and the Prieſts ſacriſ<g ref="char:EOLhyphen"/>cing and the performances therein typed, what Chriſt did for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in this world: and if the Holy of Holies into which the Prieſt entred once a yeare was a type of <hi>Heaven,</hi> as indeed it is <hi>Heb.</hi> 9.24. then the full<g ref="char:EOLhyphen"/>filling of this type muſt bee, that Chriſts ſoule (when his bloud was ſhed, and his ſoule or life made an offering for ſin, <hi>Eſ.</hi> 53.10.) entred into the <hi>Heavens</hi> as is expreſly ſaid in <hi>Heb.</hi> 9.24 and as the correſpon<g ref="char:EOLhyphen"/>dence of the particular matters above mentioned doe imply.</p>
+               </div>
+               <div n="5" type="ground">
+                  <head>
+                     <hi>The</hi> 5. <hi>Ground.</hi>
+                  </head>
+                  <p>IN the fifth place I think it well worthy of our conſideration, that ſee<g ref="char:EOLhyphen"/>ing Chriſt was crucified <hi>on the day of preparation to the Sabbath,</hi> and that his body was put into the grave in the Evening afterward: and ſee<g ref="char:EOLhyphen"/>ing that <hi>hee roſe not again untill the firſt day of the week in the morning;</hi> it is manifeſt that his body reſted in the grave, and perfectly kept the whole Jewiſh Sabbath; So that neither the wicked Jewes and Romans his enemies, nor the pious women, who out of their love minded with ſweet odours to embalme him, did interrupt the reſt of his body all that time.</p>
+                  <p>This being the condition of Chriſts body, and the Sabbath thus obſer<g ref="char:EOLhyphen"/>ved and kept by it: what ſhall wee think became of his ſoule, where kept it the Sabbath, that it might obſerve a correſpondence therein with the body? Shall wee not grant that it went to Paradiſe, to Heaven the lodge of the Saints? where wee expect to enjoy an everlaſting Sabbath, Shall wee not think, that as the body of Chriſt in the grave, and as the ſoules of Gods ſervants departed, in Heaven reſt from their labours, <hi>Revel.</hi> 14. So Chriſts ſoule in this place of bliſſe reſted from its labours. Hee was freed from conceiving greif at the hard hearted neſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of wicked men on earth: and now after his death ſhould his ſoule come to a place, where wretched and ungracious ſoules were tormented irremediably for dying impenitent? Where Chriſt found people on earth obſtinatly unfaithfull and ungodly, he abode not among them, but departed out of their coaſts: and ſhall we conceive that his ſoule after his death did goe to, and abide in the darkſome lodgings of ſoules given up to diſobedience and rebel<g ref="char:EOLhyphen"/>lion, where hee could doe them no good. The Scripture hath not revealed any ſuch thing, not a word of any promiſe tending that way.</p>
+                  <p>
+                     <hi>Obj.</hi> Chriſt in his life time ſhunned no place, no people. Hee went to the Publicans houſe, dined with him: he went to <hi>Samaria</hi> a wicked people, and often converſed with ſinners.</p>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:156232:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:156232:10"/>
+                  <pb n="14" facs="tcp:156232:11"/>
+                  <p> 
+                     <hi>Anſ.</hi> Hee did ſo indeed: and well might hee ſo doe: becauſe hee was an extraordinary Phyſitian, who could not bee infected with the con<g ref="char:EOLhyphen"/>tagiouſneſſe of any ſinner. 2. Becauſe he brought to them ſuch pretious balmes, ſo ſoveraig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e medicines, that there with he often cured ſome of them. And bee it ſo, that the ſins of them in <hi>Gehenna,</hi> damnable to them<g ref="char:EOLhyphen"/>ſelves could in no wiſe touch or affect him: Sure it is, that his moſt excel<g ref="char:EOLhyphen"/>lent medicines were not prepared for any in their condition. For wee read not that any actually in <hi>Gehenna</hi> were redeemed thence by Chriſt.</p>
+                  <p>
+                     <hi>Obj.</hi> B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t might not Chriſt notwithſtanding goe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther to triumph over the damned ſpirits in <hi>Gehenna?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> Had it bin Chriſts pleaſure to have triumphed over them: Surely as the Lord from Heaven could laugh them to Scorn. <hi>Pſ.</hi> 2. ſo might hee ſhew himſelfe from Heaven after a triumphing manner over them. And I conceive that his laughing at the deſtruction of them who obſtinately deſpiſed his counſell, and would not be bettered by correction. <hi>Prov.</hi> 1.25.26. is a kind of triumphing over them, if wee may uſe the word [triumph] ſpeaking of God after the manner of men, as it pleaſeth the Holy Ghoſt to uſe the phraſe of [<hi>laughing to Scorn from Heaven.</hi>] See<g ref="char:EOLhyphen"/>ing the Richman in <hi>Gehennas</hi> torment may bee conceived by us to ſee <hi>A<g ref="char:EOLhyphen"/>braham</hi> and <hi>Lazarus</hi> in bliſſe: for the text relates it, <hi>Luc.</hi> 16. much more may wee conceive, how the damned ſpirits in their miſerable condition may to their horrour ſee the glorious ſtate of Chriſt triumphing in Hea<g ref="char:EOLhyphen"/>ven. So that 'cis no more neceſſary for Chriſt to goe to <hi>Gehenna</hi> to tri<g ref="char:EOLhyphen"/>umph over the damned ſoules there: then for a King who hath vanqui<g ref="char:EOLhyphen"/>ſhed rebells and impriſoned them to come and abide ſome dayes trium<g ref="char:EOLhyphen"/>phantly in the priſon: which commonly is a place too loathſome for him to come neer.</p>
+                  <p>
+                     <hi>Obj.</hi> But ſome will farther ſay. Where ever Chriſts ſoule was, though in <hi>Gehenna,</hi> it might and would obſerve an Holy Sabbath: no externall matter could moleſt or diſquiet it: no helliſh repreſentation of torture or hideous noyſe of the damned, no anguiſh of theirs could break off or in<g ref="char:EOLhyphen"/>terrupt its Sabbath and reſt.</p>
+                  <p>
+                     <hi>Anſ.</hi> Bee it ſo. Yet wee muſt know that the Iewes for the obſervation of their Sabbath did not onely every man in himſelfe enjoy a ſacred re<g ref="char:EOLhyphen"/>tirement from outward and wordly affaires, and contemplated in his pri<g ref="char:EOLhyphen"/>vate thoughts on Heavenly matters: but did joyn alſo with many others, a publick congregation in their Synagogues cald houſes of God: where with one accord they praiſed God. Now whether ſomething anſwerable to this, was to be done by Chriſts ſoule in <hi>Gehenna,</hi> or amidſt the Quire of Saints and Angels in <hi>Heaven,</hi> let any man judg.</p>
+               </div>
+               <div type="summary">
+                  <pb n="15" facs="tcp:156232:11"/>
+                  <head>The Iudgment of ſome worthy and learned writers about theſe points.</head>
+                  <p>PReg<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> evid<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nces of Scriptures, and next to them ſound dedu<g ref="char:EOLhyphen"/>ctions the ce are of greateſt validity to ſettle divine Truth: the judgments o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pious, learned and long exp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rienced divin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, though they bee of much infertour author<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty to the forme<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, yet have their uſe, and are nor to be neglected: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly where their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and abili<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es ſer<g ref="char:EOLhyphen"/>ved to clear texts obſcure, or liable to<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on rov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſie. Give me leave the fore for the fuller opening o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this preſent poin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to produce the jud<g ref="char:EOLhyphen"/>gements of ſome later divines, who ſince the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eviving of ſacred know<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge have attained much skill in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and become di<g ref="char:EOLhyphen"/>ligent and ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ious Searche<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s into the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xt indited by the holy Ghoſt, and by their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> afforded much light to the diſcuſſion of the buſineſſ now <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hand.</p>
+                  <p n="1">1. <hi>Henry Bullinger</hi> in his Decads, where hee wries on this Article, ſaith to this eſtect. By <hi>Infers</hi> in the Creed <hi>we underſtand not the place of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erment d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſtinated to the wicked, but the godly departed out of this life: as by Superi wee underſtand them, who are ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> alive. And therefore the ſoule of Chriſt</hi> deſcended <hi>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Inferos,</hi> that is, <hi>was carried into Abraha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s beſom, in which were gathered together all believers deceaſed. Therefore when Chriſt ſaid to the malefactour, the believing thief crucified with him: This day ſhalt thou bee with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ee in Paradiſe, hee promiſed him ſo<g ref="char:EOLhyphen"/>ciety with himſelfe, and the bleſſed ſpirits in life eternall. And where as Chriſt is ſaid to deſcend, that is onely from the cuſtome of that tongue or ſpeech. We further confeſſe in this Article, that ſoules are immortall, &amp; preſently paſſe to life, when the body dies.</hi> This I have read cited for the judgment of the Zurich divines. If they concur herein: then it is of ſo much the more weight, as a whole Churches conſent out weigheth the determination of one particular Treacher. That <hi>Juferi</hi> are taken for the dead, <hi>Superi</hi> for the living the ſpeech of <hi>Maxim. Taurinus De ſe<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lt. Domini, Hons.</hi>3. ſhews, <hi>Quid quar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> apud Inferes, quem re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iiſſe jam conſtat ad Superes?</hi> why ſeekeſt thou him among the dead (this with reference to the body, which the ſoule left and went unto the world unſeen) who is well known to bee now among the living. And Macrobius (a judg for Latine words not incompeten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) ſpeakes to the ſame purpoſe. <hi>Nos defunctis Superi habemur:</hi> we here living are called <hi>Superi</hi> in regard of them, who are gone to another world. In <hi>So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n. Scip.</hi> 1.3. And they by the oppoſition of the words are called <hi>Jnferi.</hi> This is the cuſtome of ſpeech which <hi>H. Bullinger</hi> mentions.</p>
+                  <p n="2">
+                     <pb n="16" facs="tcp:156232:12"/> 2. Biſhop <hi>Bilſon</hi> a very learned man and much verſed in this point was overcome by the force of truth, and in ſome ſort yeelded the cauſe a<g ref="char:EOLhyphen"/>gainſt himſelfe. For though hee held that Chriſts ſoule did deſcend <hi>ad locum damnatorum,</hi> yet he expreſſy ſaith, <hi>Wee have no warrant in the word of God ſo to faſten Chriſts ſoule to Hel</hi> (that is to <hi>Gehenna) that it might not bee in Paradiſe, before it deſcended to Hell: and hee firſt ſhew himſelfe to the Saints to their unſpeakable comfort, before hee went to ſub<g ref="char:EOLhyphen"/>ject the powers of darkneſſe under his yoak. Serm. pag.</hi>219. Vpon this his grant, I infer. Seeing hee yeelds that according to the Scripture, Chriſts ſoule went at his death to Heaven. 1. the Scripture never mentions, nay hath not one title to prove, that his ſoule went from Heaven to <hi>Gehenna.</hi> 2. If it were firſt in Paradiſe, and came with the ſoules of the Saints thence at his reſurrection (as there is little reaſon to hold the contrary) why ſhould wee not think, that it continued in Paradiſe from its acceſſe thi<g ref="char:EOLhyphen"/>ther, untill its comming thence with the ſoules of the Saints, who roſe with Chriſt. 3. If Chriſts ſoule went firſt to Paradiſe; and there ſhewed it ſelf to the Saints great comfort: it might in Heaven alſo ſhew it ſelf to the ſpirits in torment to their utter confuſion. So <hi>Abraham</hi> (as I ſaid before) appeared in the place of happineſſe to <hi>Lazarus</hi> his comfort: and yet was ſeen by the Rich man to his utter deſpair of remedie. And indeed Chriſts appearance in Heaven in the ſight of the damned ſpirits in Hell might, though himſelfe uttered no words at all, intimate to them, ſome<g ref="char:EOLhyphen"/>what like to that in the parable expreſſed, as ſpoken by <hi>Abraham. Re<g ref="char:EOLhyphen"/>member that yee in your life time received pleaſures, and on the contrary the Godly,</hi> as did <hi>Lazarus, evill things: but now they are comforted and yee are tormented.</hi>
+                  </p>
+                  <p n="3">3. Maſter <hi>H. Broughton</hi> a man very skilfull of the ſacred Originall, and an earneſt and ſtudious ſearcher into paſſages of Scripture and other writers making for the clearing of this point, ſaith. <hi>Hades is the generall word expreſſing the place of all kind of ſoules, and by different circumſtan<g ref="char:EOLhyphen"/>ces is ſometimes Heaven, ſometimes Hel.</hi> Reply <hi>pag.</hi>37. Andagain, <hi>Sheol comes 64 times in the Holy tongue; Hel as often in our old Tranſlation, and never directly for Gehenna, but as by the Argument may be concluded: and ſo it may bee Heaven in ſpeech of the Godly. Neither ſhould Hel in the Creed</hi> [expreſſing <hi>Haden</hi> and <hi>Inferos</hi>] mean <hi>any thing elſe but the world to come, the world of ſoules.</hi> Likewiſe, <hi>Hel cometh 9. times for Hades in the New Teſtament, but never in all theſe places, doth it ſignifie Ge<g ref="char:EOLhyphen"/>henna. Thus 73. times in a gener all meaning of ſeparation from the world, and ſuch lot, as the matter (where you find it) followeth, it cometh in both Teſtaments.</hi> Explic. of the Article, <hi>pag.</hi> 3. That hee might ſhew his Iudg<g ref="char:EOLhyphen"/>ment
+<pb n="17" facs="tcp:156232:12"/>to bee ſound and orthodox in this point, hee, in the book laſt quo<g ref="char:EOLhyphen"/>ted, hath diligently expounded moſt of the Scriptures, where theſe termes are found: and brought many ſpeeches of forraign writers, that the true acceptation of the word <hi>Hades</hi> might the better bee underſtood.</p>
+                  <p n="4">4. Maſter <hi>J. Caſaubon</hi> on <hi>Greg. Nyſſen. Epiſt. ad Euſtat. &amp;c. Not.</hi> 116. ſaith, <hi>They who think Hades is properly the ſeat of the damned, bee no leſſe deceived, then they who when they read Inferos in Latine writers, doe interpret it of the ſame place,</hi> namely <hi>Gehenna.</hi> Here is plainly intima<g ref="char:EOLhyphen"/>ted by this worthie My<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tes of ſac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed and humane learning that he judged <hi>Haden</hi> and <hi>Inferos</hi> to denote proper<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y the common ſtate of all dead, and improperly onely and oy conſequence the place of the damned. In which regard a ſo they may ſig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e the lodg of the bleſſed. And hence I conceive it is, that <hi>Luk.</hi> 16 22. the Rich man is ſaid to be <hi>in Hade</hi> or <hi>apud In<g ref="char:EOLhyphen"/>feros</hi> in Hel <hi>in torment.</hi> If Had<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s properly and of its own force had ſig<g ref="char:EOLhyphen"/>nified G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nna, Hel, be words <hi>in torment</hi> might have bin omitted.</p>
+                  <p n="5">5. Archbiſhop <hi>
+                        <g ref="char:V">Ʋ</g>ſher</hi> in his above cited T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eatiſe full fraught with dili<g ref="char:EOLhyphen"/>gent reading and judicious obſervations out of all kind of good littera<g ref="char:EOLhyphen"/>ture, ſo that it containes, what ſoever in the Treaſury of learned Anti<g ref="char:EOLhyphen"/>quity may conduce to the right underſtanding of the termes here queſtio<g ref="char:EOLhyphen"/>ned, concludes. 1. <hi>That Chriſts dead body, though free from corruption, yet did deſcend into</hi> (the grave) <hi>the place of corruption.</hi> 2. <hi>That Chriſts ſoule being ſeparated from his body departed hence to the other world or world unſeen, as all other mens ſoules in that caſe uſe to doe.</hi> So that here<g ref="char:EOLhyphen"/>by is aſſerted, that Hades ſignifies the other would or world unſeen, whi<g ref="char:EOLhyphen"/>ther other mens ſoules go, without any diſtinction in the word it ſelfe of their joy or miſery. 3. <hi>That Chriſt went to the dead and remained for a time in the ſtate of death, as other dead men aoe.</hi>
+                  </p>
+                  <p>Theſe aſſertions in the fornamed book pag.37.goe as far as is neceſſary for the point in controverſy between my Lord and the leſuit. Elſwhere (pag.353) it is further averred: <hi>That it had bin ſufficiently declared out of good Authours, that Hades ſignifies the place of ſoules departed in ge<g ref="char:EOLhyphen"/>ner all: and ſo is of extent large enough to comprehend under it, as well <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, that part of Hades</hi> (or the world unſeen) <hi>which is in Heaven, as that, which is by Ioſephus cald <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> the darker Hades, and in the Goſpel <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> outer darkneſſe.</hi> And <hi>pag.</hi> 376. it is on very good ground concluded, <hi>that ſeeing the Rule of faith, common to great and ſmall ones in the Church (as is fit) ſhould containe ſuch verities onely as are generally agreed upon by common conſent of all true Chriſtians, Chriſt deſcending to Hades may have this meaning in ge<g ref="char:EOLhyphen"/>ner all; that hee went to the dead, and continued in the ſtate of death, untill
+<pb n="18" facs="tcp:156232:13"/>the time of his reſurrection: and further that the particular determina<g ref="char:EOLhyphen"/>tion of the place of bliſſe or of torment, or of both may bee left, as a number of other Theologicall points are, unto further diſputation.</hi> Thus this moſt learned Bi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hop in a right Chriſtian moderation, and pious ſtudy of the Churches peace gives his judgment concerning the article, and permits further diſquiſition concerning the particular part of Hades, whither Chriſts ſoule went. <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> any paſſages out of learned Authours are in that Treatiſe cited mon judiciouſly: and may ſerve very pertinently to ſhew their opinion to bee, that Chriſts ſoule went at his death to Paradiſe, to Heaven, to the place, where the ſoules of the Saints were. So that not my ſelf onely, but even all who are ſtudious to find the truth in this contro<g ref="char:EOLhyphen"/>ve<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſy ſhall ſtand highly ingaged to this moſt reverend &amp; learned Biſhop (as for many other) to for that his moſt learned and exact producement.</p>
+                  <p>Now then I might call in hither the authorities of ſome, of thoſe lear<g ref="char:EOLhyphen"/>ned writers, and much in large this Treatiſe but having taken in hand (as may well be permitted) to make further diſquiſition into the point, my courſe hath bin, though I have thought good to cite the learned paines of the Iudicious late writers above, a few of many; yet eſpecially to ſtand up<g ref="char:EOLhyphen"/>on, and maintain the point from ſacred Scriptures, and deductions grou<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ded thereupon. Theſe I ſhall ſtil hold unto and rest upon, becauſe they have fully ſatisfied my ſelf: and having clearly and briefly propoun<g ref="char:EOLhyphen"/>ded them, they may, I hope, prevaile with others, who read without prejudice, and judg without partiality. So I proceed from theſe grounds of my anſwer to a punctuall and diſtinct anſwer to the ſecond Queſtion.</p>
+               </div>
+               <div type="answer">
+                  <head>The ſecond Queſtion anſwered, and ſome Objections againſt the Anſwer reſolved.</head>
+                  <p>IT hath bin ſhewed above that <hi>Hades, Sheol, Inferi</hi> of their own force expreſſe no more, but in generall that Chriſts ſoule went to the other world, or world unſeen: and further that if generall termes ſerve to ex<g ref="char:EOLhyphen"/>preſſe ſomething more particular (as generall termes very often doe) cir<g ref="char:EOLhyphen"/>cumſtances conſiderable about Chriſts perſon, and places of Scripture touching thereupon muſt inforce the ſame. Now I having declared the circumſtances of cheif weight and moment in this point, and in the ſe<g ref="char:EOLhyphen"/>verall chapters above having coſidered the Scriptures on which the know<g ref="char:EOLhyphen"/>ledge of thoſe circumſtances depend, I thus anſwer the 2d. Queſtion.</p>
+                  <p n="1">1. That Chriſts ſoule at his death commended into the hands of his father, went to Paradiſe or Heaven, typed by the <hi>Sanctum Sanctorum:</hi> into which Paradiſe or Heaven the believing malefactours ſoule, and
+<pb n="19" facs="tcp:156232:13"/>the ſoules of all the then dead Saints were carried, and into which all be<g ref="char:EOLhyphen"/>lievers ſoules now and hereafter goe at their deathes.</p>
+                  <p n="2">2. That Chriſts ſoule going from the croſſe to Heaven, did in Heaven amidſt the bleſſed and holy aſſembly of the Saints keep an holy Sabbath is his body did reſt in his grave untill his reſurrection, and that his ſoule came from Heaven to his body on the third day, as the ſoules of the dead Saints, which roſe with him at his reſurrection, did to their bodies, and as all believers ſoules ſhall at the generall reſurrection.</p>
+                  <p>
+                     <hi>Obj.</hi> Againſt this Anſwer ſome man will perhaps object. Bee it gran<g ref="char:EOLhyphen"/>ted that Chriſts ſoule went to <hi>Paradiſe:</hi> yet ſome paſſages of the ancient Fathers make <hi>Paradiſe</hi> a different place from Heaven &amp; ſhut up the ſoule<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Saints, whilſt their bodies lie in the duſt, <hi>in refriger<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o,</hi> in a place of refreſhing, and not of perfect bliſle. Whence ſome conceive it to bee ſaid, that they are under the Altar, and cry. How long Lord holy and true! doſt thou not avenge our bloud on them that dwel on the earth?</p>
+                  <p>
+                     <hi>Anſ.</hi> I Anſwer, 1. The ſoules of the Godly enjoy the bleſſedneſſe, which they are capable of during the time of their ſeparation from their bodies. The want which any one hath conceived ſo to diminiſh their bliſſe, that is is not full and perfect, can bee no other, then that which proceeds from their bodies ſtill lying in the duſt. Whence their bloud ſpilt (in which once was the life &amp; ſoule. <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>v</hi> 17.14.)cries, as did Abels, for Gods juſtice on their perſecutours. 2. In the old Teſtament the happ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neſle of the godly is expreſſed by Gods countenance ſhining on them; the miſery of the wic<g ref="char:EOLhyphen"/>ked by Gods ſetting his face againſt them, <hi>pſ.</hi> 67.1 <hi>pſ.</hi> 34.15.16. <hi>Numb.</hi> 6.25. <hi>Lev.</hi> 20.3. The one of theſe is cauſe of all happineſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, the other of all miſery both in this life and that to come. They under the Law rejoyced in the one with great content, &amp; ſtrove with all earneſtneſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to avoyd the other. In the new Teſtament for diſtinguiſhing the contrary lots of god<g ref="char:EOLhyphen"/>ly or wicked ſoules after death, God uſes the termes <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ranos</hi> heaven, &amp; <hi>Tartar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> hel, well known to heathens: and <hi>Paradiſe</hi> and <hi>Gehenna</hi> the uſuall termes of the Iewes, and beſt fitting their veine. By theſe termes are the 2. oppoſit eſtates of all ſoules let forth whether godly or wicked: nor is there any third diſtinct lot mentioned: and in this plain evidence of Scripture wee reſt. 3. The time <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>refrigerij</hi> of cooling or <hi>re<g ref="char:EOLhyphen"/>freſhing is before the face of the Lord, Act.</hi> 3.19. So that the ſoule enjoyes the light of Gods countenance, and Gods face ſhines upon it, as this matter was phraſed in the old Teſtament. And where atta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neth the ſoule ſeparated this bliſſe but in heaven often mentioned in the New Teſtament? And as the ſoule in heaven, ſo the body layd down in the duſt is freed both from the fiery darts of the dive<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and from the hot
+<pb n="20" facs="tcp:156232:14"/>perſecutions of the wicked. 4. Seeing the godly in regard of their regenerate part are ſaid to have their converſation in heaven, whilſt here they live: much more are their ſoules fitted for heaven, and there have their converſation with Chriſt, which <hi>Paul</hi> held to be beſt of all for himſelfe, <hi>Phil.</hi> 1.23. when their bodies lie in the earth expe<g ref="char:EOLhyphen"/>cting their purging and rehning, and raiſing up to glory.</p>
+                  <p>
+                     <hi>Ob.</hi> It is ſaid that Chriſt did <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to <hi>Hades,</hi> that is, goe down <hi>ad In<g ref="char:EOLhyphen"/>feros:</hi> for ſo the word ſignifies. Therefore by his going down is rather ex<g ref="char:EOLhyphen"/>preſſed, that his ſoule went to Hel, then to Heaven, which is upward.</p>
+                  <p>
+                     <hi>Anſ.</hi> The Divines of Zurick tell us (as above) that <hi>this is but the thraſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and uſuall ſpeech of the tongue,</hi> in which the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſigni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es a going from one place to another, without any reſpect to upward or downward. This is clearly to be ſeen by the often uſe of the word in the Acts of the Apoſtles: So that the expoſition of the word may bee, that Chriſt (went) and not (deſcended) to Hades. Beſides though <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> and <hi>deſcendo</hi> and ſo <hi>Iarad</hi> the Hebrew word in ſpeech of going from an hil, doe ſignify to goe down, as <hi>Exod.</hi> 19.14. &amp; 25. yet often they ſignify a paſſage from one country to another as from <hi>Canaan</hi> to <hi>Egypt. Gen.</hi> 42.2.3. &amp; 44.23.26. <hi>Deut.</hi> 10.22. Or a going to war, whether upward or downward. <hi>Iud.</hi> 1.9.1. <hi>Sam.</hi> 26.10. Hence it is that <hi>Jarad</hi> is ſometimes tranſlated by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to aſcend. As namely <hi>Ionas</hi> is ſaid by the 70 <hi>Ion.</hi> 13. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to goe up into the ſhip, or to take ſhip: which action <hi>Pſ.</hi> 107.23. is termed a going down to the <hi>Sea</hi> in ſhips. Again whereas <hi>Ruth</hi> is ſaid by the 70 to goe up to the floor of Boaz <hi>Ruth</hi> 3.3. ſhee is ſaid in <hi>verſ.</hi> 6. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to goe down to the ſame floor. Again 'tis ſaid that <hi>Sampſon</hi> and his father <hi>Iaredu</hi> went down to <hi>Timnah, Iudg.</hi> 14. yet 'tis ſaid that the Philiſtines came up to <hi>Timnah</hi> to <hi>Samp<g ref="char:EOLhyphen"/>ſons</hi> father in Laws houſe <hi>Iudg.</hi> 15.6. Thus it is manifeſt, that the word ſignifies any paſſage from one place to another. This is further cleared by <hi>Judg.</hi> 15. where tis ſaid, that <hi>Sampſon</hi> dwelt on the top of the rock <hi>Etam:</hi> and that 3000. men of <hi>Indah Iar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>du</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> went up (it muſt be ſo by conſequence) to him on the top of the Rock, <hi>verſ.</hi> 11. and in the next verſe <hi>laradnu</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> wee are come up (for he was on the hil) to binde thee. Thus <hi>Iarad</hi> and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in the 70. by conſequence ſigni<g ref="char:EOLhyphen"/>fie to aſcend. Wherefore <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in the <hi>Creed</hi> may truly and without violence to the words be expounded, he went, and may be conſequence import, that the ſoule of Chriſt aſcended: becauſe the Goſpel ſaith, that his ſoule went from the Croſſe to Paradiſe or Heaven.</p>
+                  <p>
+                     <hi>Obj</hi> If the A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ticle, He deſcended into Hel expreſſe no more but Chriſts going to the world unſeen, and if that part of the world unſeen be Hea<g ref="char:EOLhyphen"/>ven
+<pb n="21" facs="tcp:156232:14"/>according to the New Teſtament. How could the <hi>Creed</hi> poſſibly bee Engliſhed, Hee went to Hel and an opinion be ſo long held by many, that he went to <hi>Gehenna?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> 1. The Engliſh term (Hel) comes from the words <hi>to Hil,</hi> or <hi>to Hel,</hi> and theſe words anciently, and at this day in ſome countries in <hi>En<g ref="char:EOLhyphen"/>gland</hi> ſignify to <hi>Cover.</hi> For to <hi>Hel</hi> or <hi>Hel the head</hi> is to cover it. Thus Hel according to its old and originall ſignification rightly expreſles Ha<g ref="char:EOLhyphen"/>des, and imports the world unſeen, hid, and covered to us. 2. Our an<g ref="char:EOLhyphen"/>cienteſt tranſlations of the Bible did uſually put <hi>Hel</hi> for <hi>Sheol</hi> &amp; <hi>Hades.</hi> Now ſeeing tranſlations are to be examined &amp; judged of by the tongue originall, the word <hi>Hel</hi> muſt have the ſame ſignification, that <hi>Sheol</hi> and <hi>Hades</hi> have, and ſo expreſſe the world unſeen: and may be conſequence (as doe the originall words) ſignify <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Hades which is in Heaven, as Damaſcius cald it. 3. If the word <hi>Hel</hi> come from <hi>Sheol</hi> by loſing S. which as eaſily it may doe, as <hi>Cachinnus</hi> of <hi>Shekok</hi> laughter, and a Bat and Battoun from Shebet a ſtaffe, and a <hi>Boat</hi> loſe C. and its vowel, and yet come from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: then much the rather may Hel have the ſignification of <hi>Sheol</hi> and <hi>Hades.</hi> See further my Lord Primats judi<g ref="char:EOLhyphen"/>cious anſwer to this point: <hi>pag.</hi> 287. of his B. And 4. becauſe <hi>Hades</hi> in the Creed was in Latine tranſlated by the word <hi>Inferi,</hi> and <hi>Inferi</hi> con<g ref="char:EOLhyphen"/>ceived properly to expreſſe Hel or Gehenna by ſome, who were not ma<g ref="char:EOLhyphen"/>ſters of that tong, or were miſled by the darkneſſe of their times: though indeed it doth not ſo, as the learned <hi>I Caſaubon</hi> above: Hence in ſome part grew the miſpriſion.</p>
+                  <p>
+                     <hi>Obj.</hi> But is it poſſible that words ſhould be ſo miſconceived and the largneſſe of their ſignification reſtrained by miſpriſion?</p>
+                  <p>
+                     <hi>Anſ.</hi> Tis not unuſuall, nor hath it onely happened to <hi>Hades</hi> and <hi>In<g ref="char:EOLhyphen"/>feri,</hi> but to many other words; that from a generall ſignification, 1. cu<g ref="char:EOLhyphen"/>ſtome of ſpeech hath made them (like the concluſion following the worſe part) to be commonly taken in the worſe ſenſe: and then 2. igno<g ref="char:EOLhyphen"/>rance of the rarer ſignification of words in their primitive and remote ſenſe, hath <hi>ſealed up</hi> and <hi>confirmed</hi> the errour. So <hi>Hoſtis</hi> of old ſignified any ſtranger, afterward when ſome ſtrangers proved enemies, it came to ſignify an enemie. And had not Tully and ſome ancient writers reſer<g ref="char:EOLhyphen"/>ved notice for us, that once it ſignified a ſtranger: from the cuſtome of its uſe in later writers, it would be concluded to ſignify onely an enemie. The word (knave) of old ſignified any man ſervant or attendant good or bad: <hi>I. Stowe, &amp; R. Verſteg.</hi> Now the cuſtome of our ſpeach hath attri<g ref="char:EOLhyphen"/>buted it onely to an ill conditioned Raſcal. So that the old generall ſigni<g ref="char:EOLhyphen"/>fication of the word is wholly unknownto our common people. The like
+<pb n="22" facs="tcp:156232:15"/>hath befallen <hi>Hades, Sheol, Inferi:</hi> their generall ſignification of th<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> world unſeen, hath by ignorance overſpreading former times, and by neglect of knowledge of tongs, bin much forgot, and ſuffered them to be uſually underſtood in the worſe part, as if they alwayes denoted the place of the damned. But now theſe miſts and fogges of errour are by Gods goodneſſe diſpelled, and the right meaning and ſenſe of theſe words cleared and juſtified by the atteſtation of Scripture, and the an<g ref="char:EOLhyphen"/>cient Fathers both the Greek and Latine.</p>
+                  <p>Thus have I anſwered the Objections againſt the going of Chriſts ſoule from his body on the croſſe to Heaven.</p>
+                  <p>Now further it will bee more eaſily granted that his ſoule went to the manſions of bliſſe; if it bee well conſidered that <hi>Hades</hi> in the <hi>Ma<g ref="char:EOLhyphen"/>cedonian Dialect</hi> d<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th ſignify uſually <hi>Heaven.</hi> For ſeeing the Macedo<g ref="char:EOLhyphen"/>nian victories made the Greek tong well known through a larg circuit of the world, their acceptation of this word, which God pleaſed to make uſe of in the New Teſtament, muſt doubtleſſe bee of good eſteem, and weight with the judicious. Now in what ſence they uſed the term Hades appears in the King of <hi>Spaines</hi> great Bible publiſhed by <hi>Arias Montanus</hi> a learned and judicious linguiſt. In the Greek and Latine Dictionary belonging to this Bible 'tis ſaid. <hi>Hade Macedones vocant calum.</hi> The Macedonians call Heaven Hade. And <hi>Ieronymus Meg<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſerus</hi> (a man famous for his skill in many tongs) in his <hi>Theſauro Polygl<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sto</hi> puts Hade for Heaven in the Macedonian tong. And in his book of the Lords prayer in 50. languages in the Macedonian tong it runs thus. Our Father, which are in Hade. Thus as the uſe of Hades in the com<g ref="char:EOLhyphen"/>mon Greek Dialect maks not againſt nor diſproves, ſo in the Macedo<g ref="char:EOLhyphen"/>nian Dialect it makes for and confirmes my Anſwer to the ſecond Queſtion.</p>
+                  <p>And now having endevoured as breifly and perſpicuouſly,as I could, to diſcover the truth of the cheif points, which concern the ſubject un<g ref="char:EOLhyphen"/>dertaken, I humbly ſubmit, all that I have ſaid to the judgment of the learned and judicious: who for their skill are able, and for their ſtudy of the Truth will be ready to try and ſcan each particular here deli<g ref="char:EOLhyphen"/>vered, and approve and hold all that is ſound and warrantable. In which diſquiſition and trial, I beſeech the God of Truth to direct them for his own glory, the honour of Chriſt our Saviour, the prevention of of<g ref="char:EOLhyphen"/>fence to the Iewes, and the ſettling of peace in the Chriſtian Church about theſe points.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>ERRATA, Pag. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. lin. 6. grave were united—roſe again from the dead. pag 4.1.38. conſequence. p. 6.1 13. diſtinguiſhed p. 7. l <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> texts p. 8. 1. 25. witneſſe with. p. 10.1.<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. one Hyperb. and 1.33. Chriſt died. p. 12.1.16. clad with.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
